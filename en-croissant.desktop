@@ -1,1 +1,9 @@
-
+[Desktop Entry]
+Name=En Croissant
+Comment=The Ultimate Chess Toolkit
+Exec=/usr/local/bin/en-croissant
+Icon=/usr/local/share/icons/en-croissant.png
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;
+StartupNotify=true
